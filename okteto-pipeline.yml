@@ -1,0 +1,2 @@
+deploy:
+  - okteto build -t yfweb3/wine-x11-novnc-docker
